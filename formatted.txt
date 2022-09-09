@@ -1,0 +1,4372 @@
+[
+ {
+  "id": "6bde759afa450fe673e70e555be88ba4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-09T00:20:00Z",
+  "home_team": "Los Angeles Rams",
+  "away_team": "Buffalo Bills",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.79
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.08
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.75
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.75
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.18
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.77
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.76
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.74
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "35f0cd753df0e28ffb932a270a6a91b6",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Atlanta Falcons",
+  "away_team": "New Orleans Saints",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 2.88
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.43
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 2.95
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.44
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 2.95
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.43
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 2.9
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.44
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 2.9
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.42
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 2.85
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.44
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "4284c7800d36f5fd5dbe3845a2d1a7f9",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "New York Jets",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.29
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.3
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.3
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.3
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.31
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.29
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.6
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c40348d5ea77bbe8b0f886a7e741eb75",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Carolina Panthers",
+  "away_team": "Cleveland Browns",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.82
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.81
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.06
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.8
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.83
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.82
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.07
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.83
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "656060fef4f95da8dec9a653b9935357",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "San Francisco 49ers",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.65
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.45
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.32
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.45
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.34
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.55
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.33
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.5
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.31
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.4
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.33
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b2e3e2dbaa50a7ddf9a4f4925fd01632",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Cincinnati Bengals",
+  "away_team": "Pittsburgh Steelers",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.36
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.35
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.36
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.36
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.36
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.36
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d555c274df0407d7c6eb20a64dcebe4d",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "Philadelphia Eagles",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.66
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.51
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.65
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.65
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.51
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.7
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.51
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.75
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.48
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.65
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "54a425d895c7a29cee14c57298a74790",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Houston Texans",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 3.75
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.29
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 3.75
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.28
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 3.6
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.32
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 3.83
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 3.6
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.28
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 3.6
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.29
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "7a2479b035daf7bb7d2044bfc1bdfb52",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "Jacksonville Jaguars",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.2
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.7
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.1
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.73
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.15
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.74
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.2
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.73
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.15
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.2
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "f3a7841c60f8932ff341a952ca52d328",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T17:00:00Z",
+  "home_team": "Miami Dolphins",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.54
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.56
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.55
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.58
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.44
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.57
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.56
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.54
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fb9e25e0827e6df54b275dca00a7ee7a",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T20:25:00Z",
+  "home_team": "Arizona Cardinals",
+  "away_team": "Kansas City Chiefs",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 3.1
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.39
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 3.0
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 3.0
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.42
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 3.05
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.42
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.9
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.42
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 3.0
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.4
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1f7a3b4d697258963506475a55b4644",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T20:25:00Z",
+  "home_team": "Minnesota Vikings",
+  "away_team": "Green Bay Packers",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.83
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.02
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.82
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.02
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.83
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.83
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.83
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.83
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "eed577570b6f645b9dff57b754f72cd1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T20:25:00Z",
+  "home_team": "Los Angeles Chargers",
+  "away_team": "Las Vegas Raiders",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.54
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.54
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.5
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.54
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.55
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.56
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.55
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.56
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.5
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.56
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.5
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.54
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1773bab5119afd38933e1724d19b220d",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-11T20:25:00Z",
+  "home_team": "Tennessee Titans",
+  "away_team": "New York Giants",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 3.05
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 3.1
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.41
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 3.1
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 2.98
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.42
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 3.0
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 3.0
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.4
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bfe2d2228771dbd31bd4dffeff2a8dde",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-12T00:20:00Z",
+  "home_team": "Dallas Cowboys",
+  "away_team": "Tampa Bay Buccaneers",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.16
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.74
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.17
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.2
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.21
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.73
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.2
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.15
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "71296cb2f859f8b35006d09d1cb3f99e",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-13T00:15:00Z",
+  "home_team": "Seattle Seahawks",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.37
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.36
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.35
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.38
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pointsbetus",
+    "title": "PointsBet (US)",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.36
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2022-09-07T21:02:57Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.4
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d7edc335da777608365d0591a81f44a9",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-16T00:15:00Z",
+  "home_team": "Kansas City Chiefs",
+  "away_team": "Los Angeles Chargers",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.63
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 2.36
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.61
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 2.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.6
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 2.37
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.6
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 2.37
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "080f13421b3e5e54278a91ca84da1b5e",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "Miami Dolphins",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.5
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.53
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.5
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 1.52
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.62
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "8cc8ad88130a20c5903a7242d78e8cf1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "New York Giants",
+  "away_team": "Carolina Panthers",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.93
+       },
+       {
+        "name": "New York Giants",
+        "price": 1.88
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.91
+       },
+       {
+        "name": "New York Giants",
+        "price": 1.91
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.93
+       },
+       {
+        "name": "New York Giants",
+        "price": 1.88
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.93
+       },
+       {
+        "name": "New York Giants",
+        "price": 1.93
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "db2d95a9bcb88932cbe6bc5382fbba99",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "Cleveland Browns",
+  "away_team": "New York Jets",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 1.47
+       },
+       {
+        "name": "New York Jets",
+        "price": 2.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 1.4
+       },
+       {
+        "name": "New York Jets",
+        "price": 3.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 1.47
+       },
+       {
+        "name": "New York Jets",
+        "price": 2.75
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "657839ab389b71122d87801a3822ed4b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "Washington Commanders",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 1.94
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.87
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 1.95
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.87
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 1.94
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.87
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 1.98
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.86
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3d469388c5e965ce890616a61441ff51",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.48
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.7
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.51
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.48
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.7
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 1.45
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 2.84
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "5ee78ae20ac0510e4a78e03cb1c41e18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "Pittsburgh Steelers",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 1.82
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 1.8
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 1.82
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 1.85
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b4a7c5c1af92401d25765f20a28b3c3d",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T17:00:00Z",
+  "home_team": "New Orleans Saints",
+  "away_team": "Tampa Bay Buccaneers",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": 2.45
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.56
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": 2.6
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.53
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": 2.45
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.56
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": 2.36
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.62
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b578ccb3df9e461e47400cd3178e4c60",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T20:05:00Z",
+  "home_team": "Los Angeles Rams",
+  "away_team": "Atlanta Falcons",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 6.5
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.12
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 7.25
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.11
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 6.5
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.12
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": 7.1
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.11
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "32a76baa7e8168222e1551bc66e736ec",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T20:05:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Seattle Seahawks",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.25
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.26
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.25
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.05
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.23
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.4
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "9863ae3639aed6ea49aa2e94d2b398a3",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T20:25:00Z",
+  "home_team": "Las Vegas Raiders",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.12
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.73
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.2
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.12
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.73
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.08
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.79
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "6a0a396023296cc679baee6a03f2f52a",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T20:25:00Z",
+  "home_team": "Dallas Cowboys",
+  "away_team": "Cincinnati Bengals",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 2.08
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.76
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 2.05
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.8
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 2.08
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.76
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 2.2
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.7
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a14a42cf94b3f77c56d393a648186f41",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-18T20:25:00Z",
+  "home_team": "Denver Broncos",
+  "away_team": "Houston Texans",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.18
+       },
+       {
+        "name": "Houston Texans",
+        "price": 5.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.19
+       },
+       {
+        "name": "Houston Texans",
+        "price": 5.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.18
+       },
+       {
+        "name": "Houston Texans",
+        "price": 5.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.18
+       },
+       {
+        "name": "Houston Texans",
+        "price": 5.2
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "7ab4096d188eb53a7f66c924ba732a81",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-19T00:20:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "Chicago Bears",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 4.7
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 4.8
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.21
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 4.7
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 4.6
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.22
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "891d329b4b7632497cb651f418a092b7",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-19T23:15:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "Tennessee Titans",
+  "bookmakers": [
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.3
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.26
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 4.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.3
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 3.6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.25
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "f6a4aa5f66b3c355311e8f598209c9f1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-09-20T00:30:00Z",
+  "home_team": "Philadelphia Eagles",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.18
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.72
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.1
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.2
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.71
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.1
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.75
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "da9ee648135469a635e468728c6c8643",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-10-02T13:30:00Z",
+  "home_team": "New Orleans Saints",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.83
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.85
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.95
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.85
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.95
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.85
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 2.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "396b57cac445752ddb7bd83236faf1b4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-10-03T00:20:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Kansas City Chiefs",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 2.15
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.74
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 2.1
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 2.1
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.75
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "b40420ba99d4aa4f310eb777747b52f8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-10-09T13:30:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "New York Giants",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.34
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.35
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.35
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Green Bay Packers",
+        "price": 1.37
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "0c056485fc7897af7947e667069e420b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-10-30T13:30:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.36
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.33
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.33
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 1.34
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "e8dce84fd844264b94713f2ce384fbcb",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-11-13T14:30:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Seattle Seahawks",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.2
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.26
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.45
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.22
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.45
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.22
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 4.4
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.23
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "49b82cfa8d543643cf2b5d5109afa7be",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-11-13T21:25:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "Dallas Cowboys",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.65
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.51
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.65
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.65
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 1.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "6cb8b70ef8969b46535e63a71e9500f5",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-11-22T01:15:00Z",
+  "home_team": "Arizona Cardinals",
+  "away_team": "San Francisco 49ers",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.05
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.8
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.06
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.78
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.06
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.78
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.02
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.83
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "febaaec689e0d22db53cb8eec2177048",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-11-24T17:30:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "Buffalo Bills",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.22
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 4.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.22
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 4.6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.22
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 4.35
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "7105b806f4de825d7ed04c2a88ea7dc1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-11-24T21:30:00Z",
+  "home_team": "Dallas Cowboys",
+  "away_team": "New York Giants",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.33
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.34
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.33
+       },
+       {
+        "name": "New York Giants",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bcc13922c6264eaf1f2a63ff1870a580",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-11-25T01:20:00Z",
+  "home_team": "Minnesota Vikings",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.75
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2022-09-07T21:03:50Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.77
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 1.75
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.1
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "4f6fc1ecc800423ee2a288ab374771b7",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2022-12-25T21:30:00Z",
+  "home_team": "Los Angeles Rams",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2022-09-07T21:02:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.2
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.68
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "barstool",
+    "title": "Barstool Sportsbook",
+    "last_update": "2022-09-07T21:02:56Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.2
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.68
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2022-09-07T21:00:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.22
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.69
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
